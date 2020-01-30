@@ -552,3 +552,25 @@
 2020-01-30 12:55:45,892 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.mchange:mchange-commons-java:0.2.3.4
 2020-01-30 12:55:46,202 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-01-30 12:55:46,203 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\leoo_\OneDrive\햞ea de Trabalho\EstudosSOAP\ws-jpa-provider\src\main\resources
+2020-01-30 12:55:46,204 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 12:55:46,204 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\leoo_\OneDrive\햞ea de Trabalho\EstudosSOAP\ws-jpa-provider\src\test\resources
+2020-01-30 13:08:57,622 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-01-30 13:08:58,023 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.fiap.bank:ClienteCrudSoap:0.0.1-SNAPSHOT @ C:\Users\leoo_\OneDrive\햞ea de Trabalho\EstudosSOAP\ws-jpa-provider\pom.xml.
+2020-01-30 13:08:58,909 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ws-jpa-provider/src
+2020-01-30 13:08:58,909 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /ws-jpa-provider/src/test/java because it overlaps with /ws-jpa-provider/src
+2020-01-30 13:08:59,366 [Worker-27: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ws-jpa-provider
+2020-01-30 13:08:59,372 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-01-30 13:08:59,752 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 13:08:59,752 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\leoo_\OneDrive\햞ea de Trabalho\EstudosSOAP\ws-jpa-provider\src\main\resources
+2020-01-30 13:08:59,754 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 13:08:59,754 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\leoo_\OneDrive\햞ea de Trabalho\EstudosSOAP\ws-jpa-provider\src\test\resources
+2020-01-30 13:08:59,754 [Worker-31: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ws-jpa-provider
+2020-01-30 13:08:59,754 [Worker-31: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ws-jpa-provider
+2020-01-30 13:08:59,758 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 13:12:12,145 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 13:12:12,146 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\leoo_\OneDrive\햞ea de Trabalho\EstudosSOAP\ws-jpa-provider\src\main\resources
+2020-01-30 13:12:12,146 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 13:12:12,146 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\leoo_\OneDrive\햞ea de Trabalho\EstudosSOAP\ws-jpa-provider\src\test\resources
+2020-01-30 13:17:03,190 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-30 13:17:03,190 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\leoo_\OneDrive\햞ea de Trabalho\EstudosSOAP\ws-jpa-provider\src\main\resources
+2020-01-30 13:17:03,191 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.

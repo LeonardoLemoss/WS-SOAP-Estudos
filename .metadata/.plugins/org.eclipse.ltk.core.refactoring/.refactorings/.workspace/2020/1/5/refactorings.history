@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;ws-jpa-provider&apos;" deleteContents="true" description="Delete resource &apos;ws-jpa-provider&apos;" element1="/ws-jpa-provider" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1580397588135"/>
+</session>
