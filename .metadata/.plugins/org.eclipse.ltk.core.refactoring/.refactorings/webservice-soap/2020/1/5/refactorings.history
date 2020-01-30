@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;br.com.fiap.ws&apos; to &apos;br.com.fiap.ws.entiy&apos;&#x0D;&#x0A;- Original project: &apos;webservice-soap&apos;&#x0D;&#x0A;- Original element: &apos;webservice-soap/src/br.com.fiap.ws&apos;&#x0D;&#x0A;- Renamed element: &apos;webservice-soap/src/br.com.fiap.ws.entiy&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;br.com.fiap.ws&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;br.com.fiap.ws" name="br.com.fiap.ws.entiy" qualified="false" references="true" stamp="1580390183367" textual="false" version="1.0"/>
+</session>

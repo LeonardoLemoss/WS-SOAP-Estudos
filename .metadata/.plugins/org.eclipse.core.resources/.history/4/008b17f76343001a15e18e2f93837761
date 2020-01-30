@@ -1,0 +1,18 @@
+package br.com.fiap.ws.run;
+
+import org.apache.cxf.jaxws.JaxWsServerFactoryBean;
+
+import br.com.fiap.ws.service.ClienteService;
+import br.com.fiap.ws.service.impl.ClienteServiceImpl;
+
+public class Run {
+	
+	public static void main(String[] args) {
+		
+		ClienteService clienteService = new ClienteServiceImpl();
+		JaxWsServerFactoryBean bean = new JaxWsServerFactoryBean();
+		bean.setServiceClass(ClienteService.class);
+		bean.setAddress("http://localhost:8080/cliente");
+		
+	}
+}

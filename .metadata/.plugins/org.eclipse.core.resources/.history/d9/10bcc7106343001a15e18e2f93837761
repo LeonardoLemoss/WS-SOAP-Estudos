@@ -1,0 +1,9 @@
+package br.com.fiap.ws.service;
+
+import javax.jws.WebService;
+
+@WebService
+public class ClienteService {
+
+	
+}

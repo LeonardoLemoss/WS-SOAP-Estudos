@@ -1,0 +1,8 @@
+package br.com.fiap.ws.run;
+
+public class Run {
+	
+	public static void main(String[] args) {
+		
+	}
+}

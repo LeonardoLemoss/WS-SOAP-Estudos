@@ -1,0 +1,13 @@
+package br.com.fiap.ws.service;
+
+import javax.jws.WebParam;
+import javax.jws.WebService;
+
+import br.com.fiap.ws.entiy.Cliente;
+
+@WebService
+public interface ClienteService {
+
+	String busca(@WebParam(name = "cliente") Cliente cliente);
+	
+}
